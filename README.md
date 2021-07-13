@@ -51,7 +51,7 @@ A primeira parte do curso é focada nos fundamentos do SASS, como instalar ele e
 
 #### Concluido :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_grid_layout-origamid/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_com_sass-origamid/).
 
 # 
 ## :unlock: Licença
