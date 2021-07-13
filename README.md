@@ -34,7 +34,7 @@
 
 ## :rocket: Sobre o curso
 
-#### CSS Grid Layout
+#### CSS Com SASS
 
 No curso de CSS com SASS você irá aprender como criar variáveis, mixins, funções, loops e outras funcionalidades que vão tornar a codificação do seu CSS mais eficiente e divertida.
 
