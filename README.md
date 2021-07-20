@@ -60,7 +60,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>HTML</div><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40px" /></a></td>
       <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><div>CSS</div><img src="https://img.icons8.com/color/96/000000/css3.png" height="40px" /></a> </td>
-        <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><div>Javascript</div><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40px" /></a></td>
+        <td align=center><a href="https://sass-lang.com/"><div>SASS</div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40px" /></a></td>
   </tr>
 </table>
 
